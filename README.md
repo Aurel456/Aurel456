@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aurelien
 - 👀 I’m interested in data science, LLM, new technologies and artificial intelligence
-- 🌱 I’m currently working in a research project on energy forecasting
+- 🌱 I’m currently working in a research project on a benchmark of deep learning models for power consumption forecast
 - 📫 How to reach me aurelien.aurus@edu.devinci.fr
 
 
