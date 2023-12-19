@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aurelien
-- 👀 I’m interested in data science, LLM, new technologies and artificial intelligence
+- 👀 I’m interested in data science,machine learning, NLP/ LLM and new technologies
 - 🌱 I’m currently working in a research project on a benchmark of deep learning models for power consumption forecast
 - 📫 How to reach me aurelien.aurus@edu.devinci.fr
 
